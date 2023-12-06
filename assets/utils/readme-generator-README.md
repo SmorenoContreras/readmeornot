@@ -1,10 +1,10 @@
-# test
+# Readme Generator
   ![Github License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 
   ## Description 📝
 
-  test
+  to generate readme files
 
   ## Table of Contents 🗒
 
@@ -25,12 +25,12 @@
   To install dependencies, run these commands:
 
   ```
-  test
+  then run "node index"
   ```
 
   ## Usage 🏆
 
-  test
+  for testing
 
   ## License 📛 
 
@@ -40,14 +40,14 @@
 
   ## Contributors 😃
 
-  test
+  bcs mdn w3 schools
 
   ## Tests 
 
   To run tests, run these commands:
 
   ```
-  npm test
+  or node index
   ```
 
   ## Questions
@@ -55,4 +55,4 @@
   For additional questions, contact me at the email provided below. 
 
   - GitHub: [smorenocontreras](https://github.com/smorenocontreras/)
-  - Email:  smorernocontreras@gmail.com
+  - Email:  smorenocontreras@gmail.com
