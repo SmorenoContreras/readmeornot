@@ -20,7 +20,7 @@ Just need to make sure vs-code, or anything really with terminal on it is instal
 To generate readme files. 
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![video tutorial](./assets/screencastify%20readme%20gen%20tutorial.webm)
     ```
 
 ## Credits
