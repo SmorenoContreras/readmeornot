@@ -19,9 +19,7 @@ Just need to make sure vs-code, or anything really with terminal on it is instal
 
 To generate readme files. 
 
-    ```md
-    ![video tutorial](./assets/screencastify%20readme%20gen%20tutorial.webm)
-    ```
+Video tutorial: https://drive.google.com/file/d/1btA6dU6prARBEXFL33gxMzcWTysr4uUu/view
 
 ## Credits
 
